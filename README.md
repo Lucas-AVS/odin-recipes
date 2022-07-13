@@ -1,0 +1,1 @@
+Esse projeto tem como objetivo demonstrar o que foi estudado sobre HTML no curso "The Odin Project" criando um website básico de receitas. Posteriormente essa estrutura HTML será estilizado em outro projeto sobre CSS.
